@@ -44,7 +44,7 @@ kubectl get svc
 
 Сервіс типу LoadBalancer буде доступний на `localhost:<порт>`.
 
-#### 🎥 Демо (асciinema або gif)
+#### 🎥 Демо (асciinema)
 
 [🎥 Переглянути демо](https://asciinema.org/a/0Zrw7IOMO9FA7c1dnFZqkAJVZ)
 
