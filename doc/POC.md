@@ -34,9 +34,9 @@ https://localhost:8080
 ```bash
 kubectl -n argocd get secret argocd-initial-admin-secret \
   -o jsonpath="{.data.password}" | base64 -d && echo
+```
 
 Посилання на офіційну документацію
 
 * [https://argo-cd.readthedocs.io/en/stable/](https://argo-cd.readthedocs.io/en/stable/)
-**AsciiArtify DevOps PoC by \[ваше ім'я]**
 
