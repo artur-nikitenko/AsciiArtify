@@ -36,6 +36,8 @@ kubectl -n argocd get secret argocd-initial-admin-secret \
   -o jsonpath="{.data.password}" | base64 -d && echo
 ```
 
+[🎥 Переглянути демо](https://asciinema.org/a/FByE19QVfGcOaSVOgPKyw7RcN)
+
 Посилання на офіційну документацію
 
 * [https://argo-cd.readthedocs.io/en/stable/](https://argo-cd.readthedocs.io/en/stable/)
