@@ -10,9 +10,12 @@
 ## Кроки реалізації
 
 1. Створено fork репозиторію `go-demo-app`
-2. Створено ArgoCD Application (через UI):
+2. Створено ArgoCD Application (через UI)
 3. Зроблено мінімальну зміну (збільшено кількість api-pod до 2 в YAML)
 4. ArgoCD визначив OutOfSync статус та здійснив автосинхронізацію (видно з логу в відео)
+
+## Інтерфейс ArgoCD
+![ArgoCD UI](../assets/screen.png)
 
 ## Демонстрація
 
